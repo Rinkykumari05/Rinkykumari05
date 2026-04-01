@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rinky Kumari
-![Profile views](https://komarev.com/ghpvc/?username=Rinkykumari05&color=blue)💻 Aspiring Python Developer | Full Stack Learner  
+
 🎓 MCA Graduate (2025)  
 🚀 Passionate about building real-world web applications  
 
@@ -59,11 +59,8 @@
 
 ⭐ “I believe in learning by building real projects.”
 
-## 📊 GitHub Stats
 
-![Rinky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinkykumari05&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinkykumari05&layout=compact&theme=radical)
 
 
 <!--
